@@ -47,8 +47,8 @@ namespace DoAn1_QuanLy_BaoKhoaHoc.BS
             string sqlString = "Select Count(*) From NoiDungChinh Where MaTieuDe=N'" + MaTieuDe.Trim() + "'";
             return db.Check(sqlString, CommandType.Text, ref error);
         }
-       
-       public bool LoadCombobox(ComboBox cbb, string TenTable, string display, string value)
+
+        public bool LoadCombobox(ComboBox cbb, string TenTable, string display, string value)
         {
             string sql = "select * from " + TenTable;
             return db.LoadCombobox(cbb, display, value, sql);

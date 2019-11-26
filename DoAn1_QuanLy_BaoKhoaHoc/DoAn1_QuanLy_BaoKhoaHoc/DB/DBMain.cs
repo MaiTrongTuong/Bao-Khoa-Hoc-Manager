@@ -11,10 +11,12 @@ namespace DoAn1_QuanLy_BaoKhoaHoc.DB
 {
     class DBMain
     {
-        string ConnStr = @"Data Source=DESKTOP-TM29P3C\SQLEXPRESS;Initial Catalog=BaoCaoKhoaHoc;Integrated Security=True";
+        string ConnStr = @"Data Source=DESKTOP-116K21P;Initial Catalog=BaoCaoKhoaHoc;Integrated Security=True";
         SqlConnection conn = null;
         SqlCommand comm = null;
         SqlDataAdapter da = null;
+        DataTable dt;
+        SqlCommand cmd;
         public DBMain()
         {
             conn = new SqlConnection(ConnStr);
@@ -128,19 +130,29 @@ namespace DoAn1_QuanLy_BaoKhoaHoc.DB
             }
             return f;
         }
-        public bool LoadCombobox(ComboBox cbb, string display, string value, string sql)
+        //Thực thi nhanh nếu chỉ cần lấy dữ liệu trả ra
+        public DataTable truyvan(string sql)
         {
             conn.Open();
-
-            DataTable dt = new DataTable();
-            comm = new SqlCommand(sql,conn);
-            da = new SqlDataAdapter(comm);
+            dt = new DataTable();
+            cmd = new SqlCommand(sql, conn);
+            da = new SqlDataAdapter(cmd);
             da.Fill(dt);
+            conn.Close();
+            return dt;
+        }
+        //Lấy giá trị trả ra cho Combobox
+        public bool LoadCombobox(ComboBox cbb, string display, string value, string sql)
+        {
+            if(conn.State== ConnectionState.Open)
+            {
+                conn.Close();
+            }
+            dt = new DataTable();
+            dt = truyvan(sql);
             cbb.DataSource = dt;
             cbb.DisplayMember = display;
             cbb.ValueMember = value;
-
-            conn.Close();
             return true;
         }
     }
