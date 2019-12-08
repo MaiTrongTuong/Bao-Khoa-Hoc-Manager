@@ -1,0 +1,81 @@
+E:\CNTT\QTCSDL\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\bin\Debug\DoAn1_QuanLy_BaoKhoaHoc.exe.config
+E:\CNTT\QTCSDL\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\bin\Debug\DoAn1_QuanLy_BaoKhoaHoc.exe
+E:\CNTT\QTCSDL\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\bin\Debug\DoAn1_QuanLy_BaoKhoaHoc.pdb
+E:\CNTT\QTCSDL\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.csprojAssemblyReference.cache
+E:\CNTT\QTCSDL\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.Properties.Resources.resources
+E:\CNTT\QTCSDL\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.csproj.GenerateResource.cache
+E:\CNTT\QTCSDL\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.csproj.CoreCompileInputs.cache
+E:\CNTT\QTCSDL\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.exe
+E:\CNTT\QTCSDL\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.pdb
+E:\CNTT\QTCSDL\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.NhomTacGia.resources
+E:\CNTT\QTCSDL\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.QLTacGia.resources
+E:\CNTT\QTCSDL\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.QLTieuDe.resources
+E:\CNTT\QTCSDL\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.DangNhap.resources
+E:\CNTT\QTCSDL\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.GiaoDienChinh.resources
+E:\CNTT\QTCSDL\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.QLWeb.resources
+C:\Users\tuong be de\Desktop\Bao-Khoa-Hoc-Manager\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\bin\Debug\DoAn1_QuanLy_BaoKhoaHoc.exe.config
+C:\Users\tuong be de\Desktop\Bao-Khoa-Hoc-Manager\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\bin\Debug\DoAn1_QuanLy_BaoKhoaHoc.exe
+C:\Users\tuong be de\Desktop\Bao-Khoa-Hoc-Manager\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\bin\Debug\DoAn1_QuanLy_BaoKhoaHoc.pdb
+C:\Users\tuong be de\Desktop\Bao-Khoa-Hoc-Manager\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.csprojAssemblyReference.cache
+C:\Users\tuong be de\Desktop\Bao-Khoa-Hoc-Manager\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.NhomTacGia.resources
+C:\Users\tuong be de\Desktop\Bao-Khoa-Hoc-Manager\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.QLTacGia.resources
+C:\Users\tuong be de\Desktop\Bao-Khoa-Hoc-Manager\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.QLTieuDe.resources
+C:\Users\tuong be de\Desktop\Bao-Khoa-Hoc-Manager\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.DangNhap.resources
+C:\Users\tuong be de\Desktop\Bao-Khoa-Hoc-Manager\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.GiaoDienChinh.resources
+C:\Users\tuong be de\Desktop\Bao-Khoa-Hoc-Manager\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.Properties.Resources.resources
+C:\Users\tuong be de\Desktop\Bao-Khoa-Hoc-Manager\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.QLWeb.resources
+C:\Users\tuong be de\Desktop\Bao-Khoa-Hoc-Manager\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.csproj.GenerateResource.cache
+C:\Users\tuong be de\Desktop\Bao-Khoa-Hoc-Manager\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.csproj.CoreCompileInputs.cache
+C:\Users\tuong be de\Desktop\Bao-Khoa-Hoc-Manager\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.exe
+C:\Users\tuong be de\Desktop\Bao-Khoa-Hoc-Manager\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.pdb
+E:\CNTT\QTCSDL\Bao-Khoa-Hoc-Manager\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\bin\Debug\DoAn1_QuanLy_BaoKhoaHoc.exe.config
+E:\CNTT\QTCSDL\Bao-Khoa-Hoc-Manager\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\bin\Debug\DoAn1_QuanLy_BaoKhoaHoc.exe
+E:\CNTT\QTCSDL\Bao-Khoa-Hoc-Manager\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\bin\Debug\DoAn1_QuanLy_BaoKhoaHoc.pdb
+E:\CNTT\QTCSDL\Bao-Khoa-Hoc-Manager\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.csprojAssemblyReference.cache
+E:\CNTT\QTCSDL\Bao-Khoa-Hoc-Manager\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.QLTacGia.resources
+E:\CNTT\QTCSDL\Bao-Khoa-Hoc-Manager\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.QLTieuDe.resources
+E:\CNTT\QTCSDL\Bao-Khoa-Hoc-Manager\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.GiaoDienChinh.resources
+E:\CNTT\QTCSDL\Bao-Khoa-Hoc-Manager\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.Properties.Resources.resources
+E:\CNTT\QTCSDL\Bao-Khoa-Hoc-Manager\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.QLWeb.resources
+E:\CNTT\QTCSDL\Bao-Khoa-Hoc-Manager\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.csproj.GenerateResource.cache
+E:\CNTT\QTCSDL\Bao-Khoa-Hoc-Manager\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.csproj.CoreCompileInputs.cache
+E:\CNTT\QTCSDL\Bao-Khoa-Hoc-Manager\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.exe
+E:\CNTT\QTCSDL\Bao-Khoa-Hoc-Manager\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.pdb
+E:\CNTT\QTCSDL\Bao-Khoa-Hoc-Manager\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.FormDangNhap.resources
+E:\CNTT\QTCSDL\Bao-Khoa-Hoc-Manager\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.QLNhomTacGia.resources
+E:\CNTT\QTCSDL\Bao-Khoa-Hoc-Manager\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.Resources.QLTheLoai.resources
+E:\CNTT\QTCSDL\Bao-Khoa-Hoc-Manager\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.NguoiQuanLyy.resources
+C:\Users\tuong be de\Desktop\Bao-Khoa-Hoc-Manager\da1\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.csprojAssemblyReference.cache
+C:\Users\tuong be de\Desktop\Bao-Khoa-Hoc-Manager\da1\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.NguoiQuanLyy.resources
+C:\Users\tuong be de\Desktop\Bao-Khoa-Hoc-Manager\da1\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.QLNhomTacGia.resources
+C:\Users\tuong be de\Desktop\Bao-Khoa-Hoc-Manager\da1\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.QLTacGia.resources
+C:\Users\tuong be de\Desktop\Bao-Khoa-Hoc-Manager\da1\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.QLTieuDe.resources
+C:\Users\tuong be de\Desktop\Bao-Khoa-Hoc-Manager\da1\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.FormDangNhap.resources
+C:\Users\tuong be de\Desktop\Bao-Khoa-Hoc-Manager\da1\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.GiaoDienChinh.resources
+C:\Users\tuong be de\Desktop\Bao-Khoa-Hoc-Manager\da1\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.Properties.Resources.resources
+C:\Users\tuong be de\Desktop\Bao-Khoa-Hoc-Manager\da1\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.QLWeb.resources
+C:\Users\tuong be de\Desktop\Bao-Khoa-Hoc-Manager\da1\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.Resources.QLTheLoai.resources
+C:\Users\tuong be de\Desktop\Bao-Khoa-Hoc-Manager\da1\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.csproj.GenerateResource.cache
+C:\Users\tuong be de\Desktop\Bao-Khoa-Hoc-Manager\da1\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.csproj.CoreCompileInputs.cache
+C:\Users\tuong be de\Desktop\Bao-Khoa-Hoc-Manager\da1\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.exe
+C:\Users\tuong be de\Desktop\Bao-Khoa-Hoc-Manager\da1\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.pdb
+C:\Users\tuong be de\Desktop\Bao-Khoa-Hoc-Manager\da1\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\bin\Debug\DoAn1_QuanLy_BaoKhoaHoc.exe.config
+C:\Users\tuong be de\Desktop\Bao-Khoa-Hoc-Manager\da1\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\bin\Debug\DoAn1_QuanLy_BaoKhoaHoc.exe
+C:\Users\tuong be de\Desktop\Bao-Khoa-Hoc-Manager\da1\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\bin\Debug\DoAn1_QuanLy_BaoKhoaHoc.pdb
+E:\CNTT\da1\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\bin\Debug\DoAn1_QuanLy_BaoKhoaHoc.exe.config
+E:\CNTT\da1\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\bin\Debug\DoAn1_QuanLy_BaoKhoaHoc.exe
+E:\CNTT\da1\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\bin\Debug\DoAn1_QuanLy_BaoKhoaHoc.pdb
+E:\CNTT\da1\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.csprojAssemblyReference.cache
+E:\CNTT\da1\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.NguoiQuanLyy.resources
+E:\CNTT\da1\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.QLNhomTacGia.resources
+E:\CNTT\da1\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.QLTacGia.resources
+E:\CNTT\da1\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.QLTieuDe.resources
+E:\CNTT\da1\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.FormDangNhap.resources
+E:\CNTT\da1\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.GiaoDienChinh.resources
+E:\CNTT\da1\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.Properties.Resources.resources
+E:\CNTT\da1\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.QLWeb.resources
+E:\CNTT\da1\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.Resources.QLTheLoai.resources
+E:\CNTT\da1\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.csproj.GenerateResource.cache
+E:\CNTT\da1\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.csproj.CoreCompileInputs.cache
+E:\CNTT\da1\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.exe
+E:\CNTT\da1\DoAn1_QuanLy_BaoKhoaHoc\DoAn1_QuanLy_BaoKhoaHoc\obj\Debug\DoAn1_QuanLy_BaoKhoaHoc.pdb

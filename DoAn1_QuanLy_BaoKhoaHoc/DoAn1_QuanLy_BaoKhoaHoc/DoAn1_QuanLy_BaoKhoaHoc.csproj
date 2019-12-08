@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4625BA3E-F97B-4A37-BA43-8CE7A26934F7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DoAn1_QuanLy_BaoKhoaHoc</RootNamespace>
+    <AssemblyName>DoAn1_QuanLy_BaoKhoaHoc</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\..\..\..\..\Windows\assembly\GAC_MSIL\Microsoft.Office.Interop.Excel\15.0.0.0__71e9bce111e9429c\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="office, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\..\..\..\..\Windows\assembly\GAC_MSIL\office\15.0.0.0__71e9bce111e9429c\office.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BS\DangNhap.cs" />
+    <Compile Include="BS\DangTai.cs" />
+    <Compile Include="BS\NhomTacGia.cs" />
+    <Compile Include="BS\QuanHeTGNhom.cs" />
+    <Compile Include="BS\QuanHeWeb_QL.cs" />
+    <Compile Include="BS\QuanLy.cs" />
+    <Compile Include="BS\TacGia.cs" />
+    <Compile Include="BS\TheLoaiNghienCuu.cs" />
+    <Compile Include="BS\TieuDe.cs" />
+    <Compile Include="BS\WebDangTai.cs" />
+    <Compile Include="DB\DBMain.cs" />
+    <Compile Include="BS\ExportToExcel.cs" />
+    <Compile Include="NguoiQuanLyy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NguoiQuanLyy.Designer.cs">
+      <DependentUpon>NguoiQuanLyy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLNhomTacGia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLNhomTacGia.Designer.cs">
+      <DependentUpon>QLNhomTacGia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLTieuDe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLTieuDe.Designer.cs">
+      <DependentUpon>QLTieuDe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDangNhap.Designer.cs">
+      <DependentUpon>FormDangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GiaoDienChinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiaoDienChinh.Designer.cs">
+      <DependentUpon>GiaoDienChinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QLWeb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLWeb.Designer.cs">
+      <DependentUpon>QLWeb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLTacGia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLTacGia.Designer.cs">
+      <DependentUpon>QLTacGia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLTheLoai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLTheLoai.Designer.cs">
+      <DependentUpon>QLTheLoai.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="NguoiQuanLyy.resx">
+      <DependentUpon>NguoiQuanLyy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLNhomTacGia.resx">
+      <DependentUpon>QLNhomTacGia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLTacGia.resx">
+      <DependentUpon>QLTacGia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLTieuDe.resx">
+      <DependentUpon>QLTieuDe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDangNhap.resx">
+      <DependentUpon>FormDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiaoDienChinh.resx">
+      <DependentUpon>GiaoDienChinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="QLWeb.resx">
+      <DependentUpon>QLWeb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLTheLoai.resx">
+      <DependentUpon>QLTheLoai.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagekh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagellogin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\web.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\td.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\team.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\the loai.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
